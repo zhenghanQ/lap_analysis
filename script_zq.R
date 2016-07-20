@@ -7,7 +7,7 @@
 # laperp.RDATA is the workspace
 
 # let marginal be <.1
-
+# local change made by zq
 
 ##############################################
 # repeated-measures ANOVA to define ERP ROIs
